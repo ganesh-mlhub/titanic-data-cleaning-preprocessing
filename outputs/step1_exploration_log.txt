@@ -1,0 +1,9 @@
+Shape: (891, 12)
+
+Missing values:
+          missing_count  missing_pct
+Cabin               687        77.10
+Age                 177        19.87
+Embarked              2         0.22
+
+Duplicate rows: 0
