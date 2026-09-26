@@ -12,7 +12,7 @@ This repository contains Task 1: **Data Acquisition, Cleaning, and Preprocessing
 ├── requirements.txt             # Python dependencies
 ├── README.md
 ├── Data_Cleaning_Report.docx    # full written report
-│
+│── .gitignore
 │  (created automatically the first time you run the script)
 ├── data/
 │   └── titanic_raw.csv          # downloaded automatically on first run
